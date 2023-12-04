@@ -1,4 +1,4 @@
-9602
+9611
 111E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\nth-check\lib\parse.js133386870875926551 0
 135E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\cookie-store-api.js133386870989165068 0
 88E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules133390621066071033 1
@@ -33,7 +33,7 @@
 119E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\semver\internal\identifiers.js133386870911828228 0
 107E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\plugin\src133386870882031848 1
 116E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\string\trim.js133387129949291720 0
-80E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist133396972426155631 1
+80E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist133461393990936314 1
 130E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\esm\_wrap_async_generator.js133386870991388345 0
 151E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\syntaxes.json133386870932612974 0
 98E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\is-number133386870859878282 1
@@ -78,7 +78,7 @@
 123E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\type-fest\source\set-optional.d.ts133386870933412522 0
 110E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\dist\lib133386871014683999 1
 130E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-posthtml\package.json133386870896166114 0
-88E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\package.json133396972413762689 0
+88E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\package.json133396973313202192 0
 101E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\mdn-data\api133386870899339276 1
 129E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\matchmedia.js133386871006619137 0
 115E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\math\log1p.js133387129941867637 0
@@ -203,7 +203,7 @@
 132E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-js\src\JSTransformer.js133386870895880912 0
 107E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\json5\package.json133386870908277530 0
 136E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.c133386870964611848 0
-91E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\src\js\model.js133396834133179319 0
+91E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\src\js\model.js133398153595755240 0
 124E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.object.assign.js133387129931315093 0
 110E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\package.json133386870960032742 0
 119E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\csso\node_modules\mdn-data\css133386870937088499 1
@@ -1171,7 +1171,7 @@
 121E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\math\deg-per-rad.js133387129929676384 0
 125E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.math.isubh.js133387129934442462 0
 140E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\runtime-js\lib\helpers\browser\js-loader.js133386870931098675 0
-99E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\icons.21bad73c.svg133396972426119179 0
+99E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\icons.21bad73c.svg133461393990816058 0
 108E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\callsites\readme.md133386870861946762 0
 119E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\update-browserslist-db\LICENSE133386870860055112 0
 115E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\typed-array133387129950619092 1
@@ -3636,6 +3636,7 @@
 141E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\node_modules\entities\lib\encode.d.ts.map133386870952935503 0
 116E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-svg\src133386870906510627 1
 140E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\syntax\node\index.js133386870993441520 0
+98E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\index.6d98fa0f.js133396973403375526 0
 117E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\math\acosh.js133387129926737471 0
 147E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\syntax\node\MediaFeature.js133386870994509944 0
 125E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\string\virtual\sub.js133387129946251816 0
@@ -3802,7 +3803,7 @@
 124E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\reporter-dev-server\LICENSE133386870876328585 0
 134E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\cjs\_class_private_field_get.cjs133386870930389649 0
 147E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Parentheses.cjs133386870976630595 0
-98E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js133396972426145635 0
+98E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js133461393990816058 0
 141E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Ratio.cjs133386870985094806 0
 121E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\json\stringify.js133387129946149199 0
 131E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\test\fixtures\parcel\index.js133386870976259922 0
@@ -4410,6 +4411,7 @@
 137E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.object.iterate-entries.js133387129934517560 0
 143E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\node_modules\entities\lib\esm\encode.js.map133386870960082775 0
 141E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\node_modules\entities\lib\esm\escape.d.ts133386870966638331 0
+103E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\index.2babd537.css.map133396973403425561 0
 139E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\node_modules\entities\lib\esm\escape.js133386870921742869 0
 144E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\node_modules\entities\lib\esm\index.d.ts.map133386870961458172 0
 122E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\symbol\observable.js133387129943055061 0
@@ -4544,6 +4546,7 @@
 126E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\src\_super_prop_base.mjs133386871000355179 0
 137E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\node_modules\dom-serializer\README.md133386870909910839 0
 124E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\typed-array\entries.js133387129930355621 0
+99E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\index.2babd537.css133396973403375526 0
 135E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\node_modules\dom-serializer\lib\esm133386870912910231 1
 129E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\typed-array\iterator.js133387129941110819 0
 121E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\reflect\own-keys.js133387129943220478 0
@@ -6863,6 +6866,7 @@
 123E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\symbol\match-all.js133387129942196980 0
 128E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\async-iterator\from.js133387129937295154 0
 129E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\async-iterator\index.js133387129939383144 0
+98E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\index.9e724695.js133396973403375526 0
 127E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\async-iterator\map.js133387129942106653 0
 135E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\user-select-none.js133386871015556163 0
 128E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\async-iterator\some.js133387129945461154 0
@@ -9085,7 +9089,7 @@
 132E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\test\fixtures\config-malformed133386870881153153 1
 138E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\dist133386870933133370 1
 137E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib133386870960766349 1
-99E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\icons.dfd7a6db.svg133396972425969322 0
+99E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\icons.dfd7a6db.svg133461393990936314 0
 146E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\package.json133386870962306519 0
 143E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\README.md133386870963007687 0
 149E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\compress.js133386870925996602 0
@@ -9595,9 +9599,14 @@
 102E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\svgo.ps1133386871016757070 0
 116E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\update-browserslist-db133386871016757070 0
 120E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\update-browserslist-db.ps1133386871016757070 0
-101E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\favicon.8b2f57bf.png133396972425455455 0
-102E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map133396972426145635 0
-99E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css133396972426099171 0
-103E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css.map133396972426109172 0
-91E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\index.html133395515140180256 0
-98E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\logo.726d37a8.png133396972425313398 0
+101E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\favicon.8b2f57bf.png133461393990851081 0
+101E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\favicon.f98b6865.png133396973367300470 0
+99E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\icons.c14567a0.svg133396973402783953 0
+102E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\index.6d98fa0f.js.map133396973403425561 0
+102E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\index.9e724695.js.map133396973403425561 0
+102E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map133461393990851081 0
+99E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css133461393990580927 0
+103E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css.map133461393990851081 0
+91E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\index.html133461393990936314 0
+98E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\logo.726d37a8.png133461393990896257 0
+98E:\Downloads\temp\Java\complete-javascript-course-master\18-forkify\starter\dist\logo.8f52e69c.png133396973352543241 0

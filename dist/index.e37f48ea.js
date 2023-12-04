@@ -675,7 +675,7 @@ async function controlSubmitRecipe(data) {
     }
 }
 
-},{"core-js/modules/web.immediate.js":"49tUX","regenerator-runtime/runtime":"dXNgZ","./model.js":"Y4A21","./views/recipeView.js":"l60JC","./views/searchBarView.js":"1ZJ8V","./views/searchResultsView.js":"cXIN2","regenerator-runtime":"dXNgZ","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./views/pageButtonView.js":"3xbya","./views/bookmarksView.js":"4Lqzq","./views/addRecipeView.js":"i6DNj"}],"49tUX":[function(require,module,exports) {
+},{"core-js/modules/web.immediate.js":"49tUX","regenerator-runtime/runtime":"dXNgZ","./model.js":"Y4A21","./views/recipeView.js":"l60JC","./views/searchBarView.js":"1ZJ8V","./views/searchResultsView.js":"cXIN2","./views/pageButtonView.js":"3xbya","./views/bookmarksView.js":"4Lqzq","./views/addRecipeView.js":"i6DNj","regenerator-runtime":"dXNgZ","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"49tUX":[function(require,module,exports) {
 "use strict";
 // TODO: Remove this module from `core-js@4` since it's split to modules listed below
 require("52e9b3eefbbce1ed");
@@ -3305,7 +3305,7 @@ class SearchResultsView extends (0, _defaultViewDefault.default) {
 }
 exports.default = new SearchResultsView();
 
-},{"./defaultView":"i5cJZ","url:../../img/icons.svg":"loVOp","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./recipeListView":"lQioO"}],"lQioO":[function(require,module,exports) {
+},{"./defaultView":"i5cJZ","url:../../img/icons.svg":"loVOp","./recipeListView":"lQioO","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"lQioO":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 var _defaultView = require("./defaultView");
@@ -3338,7 +3338,7 @@ class RecipeListView extends (0, _defaultViewDefault.default) {
 }
 exports.default = new RecipeListView();
 
-},{"./defaultView":"i5cJZ","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","url:../../img/icons.svg":"loVOp"}],"3xbya":[function(require,module,exports) {
+},{"./defaultView":"i5cJZ","url:../../img/icons.svg":"loVOp","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"3xbya":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 var _defaultView = require("./defaultView");
